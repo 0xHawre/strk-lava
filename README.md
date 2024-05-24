@@ -53,7 +53,7 @@ Run the Script:
 
 Execute the script using Python 3:
 ```bash
-python3 starknet_rpc.py
+python3 strk.py
 ```
 Example Output
 The script will log the response from the RPC endpoint for each request. Example output:
