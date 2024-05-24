@@ -19,7 +19,8 @@ pip3 install requests
 Clone the Repository:
 ```bash 
 git clone https://github.com/Hafxhak/strk-lava.git
-cd starknet-rpc-data-fetcher
+cd strk-lava
+
 ```
 Edit the Script:
 
